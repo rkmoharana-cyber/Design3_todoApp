@@ -1,0 +1,23 @@
+Name - Ratikrishna Moharana
+Email - mratikrishna@gmail.com
+
+• Task Title: TO-DO App Development
+
+•Task Description:
+	- Design and implement a TO-DO App which add, edit, delete, priority, 	status, save task locally for users.
+•Steps Taken:
+	- Identified key elements that is UI & main is functionality.
+	- Developed HTML, CSS, and JavaScript code to build Fully functional TO-DO 		App.
+
+•Challenges Faced:
+	- Dealing with DOM and events.
+
+•Solutions Implemented:
+	- Create an HTML document to structure the UI.
+	- Apply CSS styling to enhance the appearance of App.
+	- Implement Functionality By JavaScript.
+
+•Learnings:
+	- The importance of functionality(Using DOM) and local Storage
+•Project Update:
+	- The Dynamic Functionable TO-DO App has been successfully designed 			and implemented, featuring a user-friendly interface that add, edit, 		delete, prior task, status, saving tasks locally and allow users to revisit 	their tasks later. 
